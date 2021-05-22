@@ -5,4 +5,3 @@ import App from './App';
 import 'bootswatch/dist/quartz/bootstrap.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
