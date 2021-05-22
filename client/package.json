@@ -5,6 +5,7 @@
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
+    "axios": "^0.21.1",
     "bootswatch": "^5.0.1",
     "mongoose": "^5.12.10",
     "react": "^16.13.1",
